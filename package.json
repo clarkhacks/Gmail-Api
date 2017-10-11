@@ -1,17 +1,15 @@
 {
-  "name": "send",
+  "name": "gmail-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Create a simple Gmail API with this repo!",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Clark Hacks",
   "license": "ISC",
   "dependencies": {
-    "cors": "^2.8.4",
     "express": "^4.16.1",
-    "express-rate-limit": "^2.9.0",
     "gmail-send": "^1.2.11"
   }
 }
